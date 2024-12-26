@@ -17,6 +17,7 @@ zk-lokomotive is an advanced, zero-knowledge proof-based file transfer system de
 
 ### Demos
 
+- **MVP Beta Demo:** [Watch on Youtube](https://youtu.be/6cZo0nR8kt0)
 - **Avalanche-Sui Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=WpamMm3GP8U)
 - **Solana-Solana Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=zspxfSJNXbs&feature=youtu.be)
 
