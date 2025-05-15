@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://zk-lokomotive.xyz/zkl.svg" /> <br />
+  <img src="../zkλ.svg#gh-light-mode-only" />
+  <img src="../zkλ_light.svg#gh-dark-mode-only" />
+  <br />
   <a href="https://zk-lokomotive.xyz">[[ Website ]]</a> • <a href="https://docs.zk-lokomotive.xyz/">[[ Docs ]]</a> • <a href="https://x.com/zkLokomotive">[[ X/Twitter ]]</a>
 </p>
 
